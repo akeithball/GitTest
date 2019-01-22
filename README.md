@@ -23,3 +23,5 @@ A personal test repo for performing Git commands.
 `git pull` - to fetch AND merge the changes from the remote branch (ex. origin/master)
 
 `git log` - to review the commit history
+
+`git merge` - merge changes from one branch into another
