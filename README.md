@@ -14,7 +14,7 @@ A personal test repo for performing Git commands.
 
 `git add <FileName>` - to add a file to the staging area to prepare for a commit
 
-`git commit -m "Comment"` - to commit changes locally and add a commit message
+`git commit -m "<Comment>"` - to commit changes locally and add a commit message
 
 `git push origin <BranchName>` - use the same name as the local branch name
 
