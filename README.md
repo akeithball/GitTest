@@ -1,7 +1,7 @@
 # GitTest
 A personal test repo for performing Git commands.
 
-##Git Commands
+## Git Commands
 `git init` - initialize a local folder as a Git repository
 `git clone <RepoURL>` - clone a repo to your local machine. i.e. download the complete history
 `git status` - check the status of your working copy
